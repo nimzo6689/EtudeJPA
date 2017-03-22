@@ -10,3 +10,7 @@ JavaSE環境で実行できるJPAの実装サンプルです。
 
 ## その他留意事項
 Lombokを使用しています。
+
+DBに関してはこちらの記事の通りに作成しています。
+
+[WindowsでApache Derbyを構築する手順書](http://qiita.com/nimzo6689/items/9b44f4bb2e446ca4938e)
