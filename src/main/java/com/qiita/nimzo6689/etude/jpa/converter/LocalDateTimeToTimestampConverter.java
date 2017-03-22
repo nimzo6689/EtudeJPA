@@ -8,7 +8,7 @@ import javax.persistence.Converter;
 /**
  * LocalDateTimeAttributeConverter
  *
- * @author ueokaj
+ * @author nimzo6689
  */
 @Converter(autoApply = true)
 public class LocalDateTimeToTimestampConverter implements AttributeConverter<LocalDateTime, Timestamp> {
